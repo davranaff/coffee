@@ -24,7 +24,7 @@ Backend application for coffee shop management. The API provides functionality f
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/coffee-shop-api.git
+   https://github.com/yourusername/coffee-shop-api.git](https://github.com/davranaff/coffee.git
    cd coffee-shop-api
    ```
 
